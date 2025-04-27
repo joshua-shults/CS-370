@@ -1,0 +1,8 @@
+The code that I worked on for this project is under the large commented section, the rest of the code was already given. My code specifically was for the intelligent pirate agent itself, its logic considering its memory buffer and how it operated.
+I initialized the agent's starting position, the training loop across the epochs stored in episodes, the replay buffer, how the agent handled training, as well as printing metrics on the model's performance during the game session.
+
+Throughout this course I have learned how machine learning, neural networks, and reinforcement learning work. Considering the field of computer science, we are tasked with designing algorithms, making efficient programs and systems for a variety
+of different programs, solving complex problems, building data structures, as well as several other jobs. Computer science matters as technology advances and systems are developed and made more efficient over time this opens up opportunities for
+business, health, as well as any industry that exists. Computer scientists are problem solvers, and throughout my time pursuing this field I have come to understand the importance of the job we train to do.
+I have also learned the importance of personal and interpersonal ethics surrounding computer science. To the end user, I feel it is important to prioritize their safety and privacy above all, as well as be transparent with anything I design or
+help design. To organizations I must ensure that any system I devolop is reliable, as easy as possible to maintain throughout its life cycle, as well as stays aligned with the organization's original goals.
